@@ -1,0 +1,11 @@
+[allnodes:children]
+radius
+ldap
+
+[radius]
+gingy
+
+[ldap]
+snow
+sleeping
+
